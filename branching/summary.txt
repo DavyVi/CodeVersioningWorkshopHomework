@@ -1,0 +1,2 @@
+# Branching is one of the method in git to make a copy of a version.
+# Branching usually done when we going to do some experimentation or adding new feature.
