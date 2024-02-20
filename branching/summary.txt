@@ -1,2 +1,6 @@
 # Branching is one of the method in git to make a copy of a version.
 # Branching usually done when we going to do some experimentation or adding new feature.
+
+# Branching concept is to make a branch copy of the main branch of the code.
+# By Branching the main code we can edit the code in the main branch
+# without changing anything in the main branch.
