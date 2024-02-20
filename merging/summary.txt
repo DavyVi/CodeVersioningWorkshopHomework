@@ -1,0 +1,2 @@
+# Merging is a concept where a branch is merged to another branch.
+# To do merging, there must be a Branching process in the first place.
