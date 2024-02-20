@@ -4,3 +4,9 @@
 # Branching concept is to make a branch copy of the main branch of the code.
 # By Branching the main code we can edit the code in the main branch
 # without changing anything in the main branch.
+
+# After done with the feature or any edit on the branch, 
+# we can do a pull request, so that our code can be reviewed and get feedback from the reviewer.
+# After the changes are reviewed and safe to merge to the main branch.
+# People with the proper repository access will be able to accept the pull
+# request and the code on the branch will be merge with the main branch.
