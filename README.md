@@ -14,5 +14,6 @@ What have been done here:
 
 The author faced some challange during the assignment such as:
 1. Pushed the wrong commit into the github, and how to rollback the version on the github (Pushing the wrong commit can be bad for the team and such a hassle so that the author learned to be extra cautious before pushing the wrong commit into any branch)
+2. How to change commit message after the commit is pushed into the repository.
 
 There is no other significant challanges in this assignment as the git commands can be found on git documentation and the use cases can be found by doing google search.
