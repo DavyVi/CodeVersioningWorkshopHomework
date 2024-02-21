@@ -1,2 +1,7 @@
-# Merging is a concept where a branch is merged to another branch.
+
+# Merging is a concept where a branch is integrated into another branch.
 # To do merging, there must be a Branching process in the first place.
+
+# Merging process can cause conflict.
+# conflict can caused by the two branch that are going to be merged,
+# have changes in a file of both of the branch.
